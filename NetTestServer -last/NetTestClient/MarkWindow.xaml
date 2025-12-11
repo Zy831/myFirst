@@ -1,0 +1,28 @@
+﻿<Window x:Class="NetTestClient.MarkWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NetTestClient"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        WindowStartupLocation="CenterScreen"
+        Closing="Window_Closing"
+        Title="MarkWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button Grid.Row="0"  x:Name="deleteMark" Content="删除成绩" HorizontalAlignment="Center"  VerticalAlignment="Center"  Click="deleteMark_Click"/>
+        <Grid Grid.Row="1" >
+            <DataGrid x:Name="mGrid" Grid.Column="1" AutoGenerateColumns="False" IsReadOnly="True" SelectionMode="Extended"  >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding uName}" Header="用户" Width="100"/>
+                    <DataGridTextColumn Binding="{Binding mDate}" Header="日期" Width="100"/>
+                    <DataGridTextColumn Binding="{Binding mValue}" Header="成绩" Width="100"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" name="NetTestService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8733/NetTestService/?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8733/NetTestService/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8733/NetTestService/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/NetTestModel" />
+      <xsd:import schemaLocation="http://localhost:8733/NetTestService/?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/System.Data" />
+      <xsd:import schemaLocation="http://localhost:8733/NetTestService/?xsd=xsd4" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="INetTestService_login_InputMessage">
+    <wsdl:part name="parameters" element="tns:login" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_login_OutputMessage">
+    <wsdl:part name="parameters" element="tns:loginResponse" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_addTest_InputMessage">
+    <wsdl:part name="parameters" element="tns:addTest" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_addTest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:addTestResponse" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_getTestDataTable_InputMessage">
+    <wsdl:part name="parameters" element="tns:getTestDataTable" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_getTestDataTable_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getTestDataTableResponse" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_deleteTest_InputMessage">
+    <wsdl:part name="parameters" element="tns:deleteTest" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_deleteTest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:deleteTestResponse" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_deleteTestList_InputMessage">
+    <wsdl:part name="parameters" element="tns:deleteTestList" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_deleteTestList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:deleteTestListResponse" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_updateTest_InputMessage">
+    <wsdl:part name="parameters" element="tns:updateTest" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_updateTest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:updateTestResponse" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_updateTestList_InputMessage">
+    <wsdl:part name="parameters" element="tns:updateTestList" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_updateTestList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:updateTestListResponse" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_getUserTestDataTable_InputMessage">
+    <wsdl:part name="parameters" element="tns:getUserTestDataTable" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_getUserTestDataTable_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getUserTestDataTableResponse" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_setUserMark_InputMessage">
+    <wsdl:part name="parameters" element="tns:setUserMark" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_setUserMark_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setUserMarkResponse" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_getMarkDataTable_InputMessage">
+    <wsdl:part name="parameters" element="tns:getMarkDataTable" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_getMarkDataTable_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getMarkDataTableResponse" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_deleteMarkList_InputMessage">
+    <wsdl:part name="parameters" element="tns:deleteMarkList" />
+  </wsdl:message>
+  <wsdl:message name="INetTestService_deleteMarkList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:deleteMarkListResponse" />
+  </wsdl:message>
+  <wsdl:portType name="INetTestService">
+    <wsdl:operation name="login">
+      <wsdl:input wsaw:Action="http://tempuri.org/INetTestService/login" message="tns:INetTestService_login_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INetTestService/loginResponse" message="tns:INetTestService_login_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="addTest">
+      <wsdl:input wsaw:Action="http://tempuri.org/INetTestService/addTest" message="tns:INetTestService_addTest_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INetTestService/addTestResponse" message="tns:INetTestService_addTest_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getTestDataTable">
+      <wsdl:input wsaw:Action="http://tempuri.org/INetTestService/getTestDataTable" message="tns:INetTestService_getTestDataTable_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INetTestService/getTestDataTableResponse" message="tns:INetTestService_getTestDataTable_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="deleteTest">
+      <wsdl:input wsaw:Action="http://tempuri.org/INetTestService/deleteTest" message="tns:INetTestService_deleteTest_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INetTestService/deleteTestResponse" message="tns:INetTestService_deleteTest_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="deleteTestList">
+      <wsdl:input wsaw:Action="http://tempuri.org/INetTestService/deleteTestList" message="tns:INetTestService_deleteTestList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INetTestService/deleteTestListResponse" message="tns:INetTestService_deleteTestList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="updateTest">
+      <wsdl:input wsaw:Action="http://tempuri.org/INetTestService/updateTest" message="tns:INetTestService_updateTest_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INetTestService/updateTestResponse" message="tns:INetTestService_updateTest_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="updateTestList">
+      <wsdl:input wsaw:Action="http://tempuri.org/INetTestService/updateTestList" message="tns:INetTestService_updateTestList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INetTestService/updateTestListResponse" message="tns:INetTestService_updateTestList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getUserTestDataTable">
+      <wsdl:input wsaw:Action="http://tempuri.org/INetTestService/getUserTestDataTable" message="tns:INetTestService_getUserTestDataTable_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INetTestService/getUserTestDataTableResponse" message="tns:INetTestService_getUserTestDataTable_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setUserMark">
+      <wsdl:input wsaw:Action="http://tempuri.org/INetTestService/setUserMark" message="tns:INetTestService_setUserMark_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INetTestService/setUserMarkResponse" message="tns:INetTestService_setUserMark_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getMarkDataTable">
+      <wsdl:input wsaw:Action="http://tempuri.org/INetTestService/getMarkDataTable" message="tns:INetTestService_getMarkDataTable_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INetTestService/getMarkDataTableResponse" message="tns:INetTestService_getMarkDataTable_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="deleteMarkList">
+      <wsdl:input wsaw:Action="http://tempuri.org/INetTestService/deleteMarkList" message="tns:INetTestService_deleteMarkList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INetTestService/deleteMarkListResponse" message="tns:INetTestService_deleteMarkList_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_INetTestService" type="tns:INetTestService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="login">
+      <soap:operation soapAction="http://tempuri.org/INetTestService/login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addTest">
+      <soap:operation soapAction="http://tempuri.org/INetTestService/addTest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getTestDataTable">
+      <soap:operation soapAction="http://tempuri.org/INetTestService/getTestDataTable" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="deleteTest">
+      <soap:operation soapAction="http://tempuri.org/INetTestService/deleteTest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="deleteTestList">
+      <soap:operation soapAction="http://tempuri.org/INetTestService/deleteTestList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateTest">
+      <soap:operation soapAction="http://tempuri.org/INetTestService/updateTest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateTestList">
+      <soap:operation soapAction="http://tempuri.org/INetTestService/updateTestList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getUserTestDataTable">
+      <soap:operation soapAction="http://tempuri.org/INetTestService/getUserTestDataTable" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setUserMark">
+      <soap:operation soapAction="http://tempuri.org/INetTestService/setUserMark" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMarkDataTable">
+      <soap:operation soapAction="http://tempuri.org/INetTestService/getMarkDataTable" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="deleteMarkList">
+      <soap:operation soapAction="http://tempuri.org/INetTestService/deleteMarkList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="NetTestService">
+    <wsdl:port name="BasicHttpBinding_INetTestService" binding="tns:BasicHttpBinding_INetTestService">
+      <soap:address location="http://localhost:8733/NetTestService/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
