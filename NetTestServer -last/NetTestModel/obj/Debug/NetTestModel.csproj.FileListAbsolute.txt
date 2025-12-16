@@ -1,0 +1,24 @@
+F:\project\NetTestServer\NetTestModel\bin\Debug\NetTestModel.dll
+F:\project\NetTestServer\NetTestModel\bin\Debug\NetTestModel.pdb
+F:\project\NetTestServer\NetTestModel\obj\Debug\NetTestModel.csproj.AssemblyReference.cache
+F:\project\NetTestServer\NetTestModel\obj\Debug\NetTestModel.csproj.CoreCompileInputs.cache
+F:\project\NetTestServer\NetTestModel\obj\Debug\NetTestModel.dll
+F:\project\NetTestServer\NetTestModel\obj\Debug\NetTestModel.pdb
+E:\project\NetTestServer -new\NetTestModel\bin\Debug\NetTestModel.dll
+E:\project\NetTestServer -new\NetTestModel\bin\Debug\NetTestModel.pdb
+E:\project\NetTestServer -new\NetTestModel\obj\Debug\NetTestModel.csproj.AssemblyReference.cache
+E:\project\NetTestServer -new\NetTestModel\obj\Debug\NetTestModel.csproj.CoreCompileInputs.cache
+E:\project\NetTestServer -new\NetTestModel\obj\Debug\NetTestModel.dll
+E:\project\NetTestServer -new\NetTestModel\obj\Debug\NetTestModel.pdb
+E:\project\NetTestServer -last\NetTestModel\bin\Debug\NetTestModel.dll
+E:\project\NetTestServer -last\NetTestModel\bin\Debug\NetTestModel.pdb
+E:\project\NetTestServer -last\NetTestModel\obj\Debug\NetTestModel.csproj.AssemblyReference.cache
+E:\project\NetTestServer -last\NetTestModel\obj\Debug\NetTestModel.csproj.CoreCompileInputs.cache
+E:\project\NetTestServer -last\NetTestModel\obj\Debug\NetTestModel.dll
+E:\project\NetTestServer -last\NetTestModel\obj\Debug\NetTestModel.pdb
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestModel\bin\Debug\NetTestModel.dll
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestModel\bin\Debug\NetTestModel.pdb
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestModel\obj\Debug\NetTestModel.csproj.AssemblyReference.cache
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestModel\obj\Debug\NetTestModel.csproj.CoreCompileInputs.cache
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestModel\obj\Debug\NetTestModel.dll
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestModel\obj\Debug\NetTestModel.pdb

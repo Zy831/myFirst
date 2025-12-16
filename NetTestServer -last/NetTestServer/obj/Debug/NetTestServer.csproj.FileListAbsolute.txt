@@ -1,0 +1,88 @@
+F:\project\NetTestServer\NetTestServer\bin\Debug\NetTestServer.exe.config
+F:\project\NetTestServer\NetTestServer\bin\Debug\NetTestServer.exe
+F:\project\NetTestServer\NetTestServer\bin\Debug\NetTestServer.pdb
+F:\project\NetTestServer\NetTestServer\bin\Debug\NetTestBLL.dll
+F:\project\NetTestServer\NetTestServer\bin\Debug\NetTestModel.dll
+F:\project\NetTestServer\NetTestServer\bin\Debug\NetTestDAL.dll
+F:\project\NetTestServer\NetTestServer\bin\Debug\NetTestBLL.pdb
+F:\project\NetTestServer\NetTestServer\bin\Debug\NetTestModel.pdb
+F:\project\NetTestServer\NetTestServer\bin\Debug\NetTestDAL.pdb
+F:\project\NetTestServer\NetTestServer\obj\Debug\NetTestServer.csproj.AssemblyReference.cache
+F:\project\NetTestServer\NetTestServer\obj\Debug\NetTestServer.csproj.CoreCompileInputs.cache
+F:\project\NetTestServer\NetTestServer\obj\Debug\NetTestS.4142725A.Up2Date
+F:\project\NetTestServer\NetTestServer\obj\Debug\NetTestServer.exe
+F:\project\NetTestServer\NetTestServer\obj\Debug\NetTestServer.pdb
+F:\project\NetTestServer\NetTestServer\obj\Debug\NetTestServer.exe.config
+E:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestServer.exe.config
+E:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestServer.exe
+E:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestServer.pdb
+E:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestBLL.dll
+E:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestModel.dll
+E:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestDAL.dll
+E:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestBLL.pdb
+E:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestModel.pdb
+E:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestDAL.pdb
+E:\project\NetTestServer -new\NetTestServer\obj\Debug\NetTestServer.csproj.AssemblyReference.cache
+E:\project\NetTestServer -new\NetTestServer\obj\Debug\NetTestServer.csproj.CoreCompileInputs.cache
+E:\project\NetTestServer -new\NetTestServer\obj\Debug\NetTestS.4142725A.Up2Date
+E:\project\NetTestServer -new\NetTestServer\obj\Debug\NetTestServer.exe
+E:\project\NetTestServer -new\NetTestServer\obj\Debug\NetTestServer.pdb
+F:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestServer.exe.config
+F:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestServer.exe
+F:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestServer.pdb
+F:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestBLL.dll
+F:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestModel.dll
+F:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestDAL.dll
+F:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestBLL.pdb
+F:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestModel.pdb
+F:\project\NetTestServer -new\NetTestServer\bin\Debug\NetTestDAL.pdb
+F:\project\NetTestServer -new\NetTestServer\obj\Debug\NetTestServer.csproj.AssemblyReference.cache
+F:\project\NetTestServer -new\NetTestServer\obj\Debug\NetTestServer.exe.config
+F:\project\NetTestServer -new\NetTestServer\obj\Debug\NetTestServer.csproj.CoreCompileInputs.cache
+F:\project\NetTestServer -new\NetTestServer\obj\Debug\NetTestS.4142725A.Up2Date
+F:\project\NetTestServer -new\NetTestServer\obj\Debug\NetTestServer.exe
+F:\project\NetTestServer -new\NetTestServer\obj\Debug\NetTestServer.pdb
+F:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestServer.exe.config
+F:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestServer.exe
+F:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestServer.pdb
+F:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestBLL.dll
+F:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestModel.dll
+F:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestDAL.dll
+F:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestBLL.pdb
+F:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestModel.pdb
+F:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestDAL.pdb
+F:\project\NetTestServer -last\NetTestServer\obj\Debug\NetTestServer.csproj.AssemblyReference.cache
+F:\project\NetTestServer -last\NetTestServer\obj\Debug\NetTestServer.exe.config
+F:\project\NetTestServer -last\NetTestServer\obj\Debug\NetTestServer.csproj.CoreCompileInputs.cache
+F:\project\NetTestServer -last\NetTestServer\obj\Debug\NetTestS.4142725A.Up2Date
+F:\project\NetTestServer -last\NetTestServer\obj\Debug\NetTestServer.exe
+F:\project\NetTestServer -last\NetTestServer\obj\Debug\NetTestServer.pdb
+E:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestServer.exe.config
+E:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestServer.exe
+E:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestServer.pdb
+E:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestBLL.dll
+E:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestModel.dll
+E:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestDAL.dll
+E:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestBLL.pdb
+E:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestModel.pdb
+E:\project\NetTestServer -last\NetTestServer\bin\Debug\NetTestDAL.pdb
+E:\project\NetTestServer -last\NetTestServer\obj\Debug\NetTestServer.csproj.AssemblyReference.cache
+E:\project\NetTestServer -last\NetTestServer\obj\Debug\NetTestServer.exe.config
+E:\project\NetTestServer -last\NetTestServer\obj\Debug\NetTestServer.csproj.CoreCompileInputs.cache
+E:\project\NetTestServer -last\NetTestServer\obj\Debug\NetTestS.4142725A.Up2Date
+E:\project\NetTestServer -last\NetTestServer\obj\Debug\NetTestServer.exe
+E:\project\NetTestServer -last\NetTestServer\obj\Debug\NetTestServer.pdb
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestServer\bin\Debug\NetTestServer.exe.config
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestServer\bin\Debug\NetTestServer.exe
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestServer\bin\Debug\NetTestServer.pdb
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestServer\bin\Debug\NetTestBLL.dll
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestServer\bin\Debug\NetTestModel.dll
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestServer\bin\Debug\NetTestDAL.dll
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestServer\bin\Debug\NetTestBLL.pdb
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestServer\bin\Debug\NetTestModel.pdb
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestServer\bin\Debug\NetTestDAL.pdb
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestServer\obj\Debug\NetTestServer.csproj.AssemblyReference.cache
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestServer\obj\Debug\NetTestServer.csproj.CoreCompileInputs.cache
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestServer\obj\Debug\NetTestS.4142725A.Up2Date
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestServer\obj\Debug\NetTestServer.exe
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestServer\obj\Debug\NetTestServer.pdb

@@ -1,0 +1,207 @@
+F:\project\NetTestServer\NetTestClient\bin\Debug\NetTestClient.exe.config
+F:\project\NetTestServer\NetTestClient\bin\Debug\NetTestClient.exe
+F:\project\NetTestServer\NetTestClient\bin\Debug\NetTestClient.pdb
+F:\project\NetTestServer\NetTestClient\bin\Debug\NetTestModel.dll
+F:\project\NetTestServer\NetTestClient\bin\Debug\NetTestModel.pdb
+F:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.csproj.AssemblyReference.cache
+F:\project\NetTestServer\NetTestClient\obj\Debug\LoginWindow.g.cs
+F:\project\NetTestServer\NetTestClient\obj\Debug\MainWindow.g.cs
+F:\project\NetTestServer\NetTestClient\obj\Debug\App.g.cs
+F:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient_MarkupCompile.cache
+F:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient_MarkupCompile.lref
+F:\project\NetTestServer\NetTestClient\obj\Debug\LoginWindow.baml
+F:\project\NetTestServer\NetTestClient\obj\Debug\MainWindow.baml
+F:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.g.resources
+F:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.Properties.Resources.resources
+F:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.csproj.GenerateResource.cache
+F:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.csproj.CoreCompileInputs.cache
+F:\project\NetTestServer\NetTestClient\obj\Debug\NetTestC.9A0F7B9D.Up2Date
+F:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.exe
+F:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.pdb
+F:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.exe.config
+F:\project\NetTestServer\NetTestClient\obj\Debug\addTestWindow.g.cs
+F:\project\NetTestServer\NetTestClient\obj\Debug\addTestWindow.baml
+E:\project\NetTestServer\NetTestClient\bin\Debug\NetTestClient.exe.config
+E:\project\NetTestServer\NetTestClient\bin\Debug\NetTestClient.exe
+E:\project\NetTestServer\NetTestClient\bin\Debug\NetTestClient.pdb
+E:\project\NetTestServer\NetTestClient\bin\Debug\NetTestModel.dll
+E:\project\NetTestServer\NetTestClient\bin\Debug\NetTestModel.pdb
+E:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.csproj.AssemblyReference.cache
+E:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.exe.config
+E:\project\NetTestServer\NetTestClient\obj\Debug\addTestWindow.g.cs
+E:\project\NetTestServer\NetTestClient\obj\Debug\LoginWindow.g.cs
+E:\project\NetTestServer\NetTestClient\obj\Debug\MainWindow.g.cs
+E:\project\NetTestServer\NetTestClient\obj\Debug\App.g.cs
+E:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient_MarkupCompile.cache
+E:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient_MarkupCompile.lref
+E:\project\NetTestServer\NetTestClient\obj\Debug\addTestWindow.baml
+E:\project\NetTestServer\NetTestClient\obj\Debug\LoginWindow.baml
+E:\project\NetTestServer\NetTestClient\obj\Debug\MainWindow.baml
+E:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.g.resources
+E:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.Properties.Resources.resources
+E:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.csproj.GenerateResource.cache
+E:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.csproj.CoreCompileInputs.cache
+E:\project\NetTestServer\NetTestClient\obj\Debug\NetTestC.9A0F7B9D.Up2Date
+E:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.exe
+E:\project\NetTestServer\NetTestClient\obj\Debug\NetTestClient.pdb
+E:\project\NetTestServer -new\NetTestClient\bin\Debug\NetTestClient.exe.config
+E:\project\NetTestServer -new\NetTestClient\bin\Debug\NetTestClient.exe
+E:\project\NetTestServer -new\NetTestClient\bin\Debug\NetTestClient.pdb
+E:\project\NetTestServer -new\NetTestClient\bin\Debug\NetTestModel.dll
+E:\project\NetTestServer -new\NetTestClient\bin\Debug\NetTestModel.pdb
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.csproj.AssemblyReference.cache
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\addTestWindow.g.cs
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\LoginWindow.g.cs
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\MainWindow.g.cs
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\deleteTestWindow.g.cs
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\App.g.cs
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient_MarkupCompile.cache
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient_MarkupCompile.lref
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\addTestWindow.baml
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\LoginWindow.baml
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\MainWindow.baml
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\deleteTestWindow.baml
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.g.resources
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.Properties.Resources.resources
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.csproj.GenerateResource.cache
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.csproj.CoreCompileInputs.cache
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestC.9A0F7B9D.Up2Date
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.exe
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.pdb
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\updataTestWindow.g.cs
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\updataTestWindow.baml
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\project\NetTestServer -new\NetTestClient\bin\Debug\NetTestClient.exe.config
+F:\project\NetTestServer -new\NetTestClient\bin\Debug\NetTestClient.exe
+F:\project\NetTestServer -new\NetTestClient\bin\Debug\NetTestClient.pdb
+F:\project\NetTestServer -new\NetTestClient\bin\Debug\NetTestModel.dll
+F:\project\NetTestServer -new\NetTestClient\bin\Debug\NetTestModel.pdb
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.csproj.AssemblyReference.cache
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.exe.config
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\addTestWindow.g.cs
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\deleteTestWindow.g.cs
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\LoginWindow.g.cs
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\MainWindow.g.cs
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\updataTestWindow.g.cs
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\App.g.cs
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient_MarkupCompile.cache
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient_MarkupCompile.lref
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\addTestWindow.baml
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\deleteTestWindow.baml
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\LoginWindow.baml
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\MainWindow.baml
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\updataTestWindow.baml
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.g.resources
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.Properties.Resources.resources
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.csproj.GenerateResource.cache
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.csproj.CoreCompileInputs.cache
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestC.9A0F7B9D.Up2Date
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.exe
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.pdb
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\UserTestWindow.g.cs
+F:\project\NetTestServer -new\NetTestClient\obj\Debug\UserTestWindow.baml
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\UserTestWindow.g.cs
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\UserTestWindow.baml
+E:\project\NetTestServer -new\NetTestClient\obj\Debug\NetTestClient.exe.config
+F:\project\NetTestServer -last\NetTestClient\bin\Debug\NetTestClient.exe.config
+F:\project\NetTestServer -last\NetTestClient\bin\Debug\NetTestClient.exe
+F:\project\NetTestServer -last\NetTestClient\bin\Debug\NetTestClient.pdb
+F:\project\NetTestServer -last\NetTestClient\bin\Debug\NetTestModel.dll
+F:\project\NetTestServer -last\NetTestClient\bin\Debug\NetTestModel.pdb
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.csproj.AssemblyReference.cache
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.exe.config
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\addTestWindow.g.cs
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\AdminWindow.g.cs
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\deleteTestWindow.g.cs
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\LoginWindow.g.cs
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\MainWindow.g.cs
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\MarkWindow.g.cs
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\updataTestWindow.g.cs
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\UserTestWindow.g.cs
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\App.g.cs
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient_MarkupCompile.cache
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient_MarkupCompile.lref
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\addTestWindow.baml
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\AdminWindow.baml
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\deleteTestWindow.baml
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\LoginWindow.baml
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\MainWindow.baml
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\MarkWindow.baml
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\updataTestWindow.baml
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\UserTestWindow.baml
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.g.resources
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.Properties.Resources.resources
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.csproj.GenerateResource.cache
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.csproj.CoreCompileInputs.cache
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestC.9A0F7B9D.Up2Date
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.exe
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.pdb
+E:\project\NetTestServer -last\NetTestClient\bin\Debug\NetTestClient.exe.config
+E:\project\NetTestServer -last\NetTestClient\bin\Debug\NetTestClient.exe
+E:\project\NetTestServer -last\NetTestClient\bin\Debug\NetTestClient.pdb
+E:\project\NetTestServer -last\NetTestClient\bin\Debug\NetTestModel.dll
+E:\project\NetTestServer -last\NetTestClient\bin\Debug\NetTestModel.pdb
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.csproj.AssemblyReference.cache
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\addTestWindow.g.cs
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\AdminWindow.g.cs
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\deleteTestWindow.g.cs
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\LoginWindow.g.cs
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\MainWindow.g.cs
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\MarkWindow.g.cs
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\updataTestWindow.g.cs
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\UserTestWindow.g.cs
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\App.g.cs
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient_MarkupCompile.cache
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient_MarkupCompile.lref
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\addTestWindow.baml
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\AdminWindow.baml
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\deleteTestWindow.baml
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\LoginWindow.baml
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\MainWindow.baml
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\MarkWindow.baml
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\updataTestWindow.baml
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\UserTestWindow.baml
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.g.resources
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.Properties.Resources.resources
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.csproj.GenerateResource.cache
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.csproj.CoreCompileInputs.cache
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestC.9A0F7B9D.Up2Date
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.exe
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.pdb
+E:\project\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.exe.config
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\bin\Debug\NetTestClient.exe.config
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\bin\Debug\NetTestClient.exe
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\bin\Debug\NetTestClient.pdb
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\bin\Debug\NetTestModel.dll
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\bin\Debug\NetTestModel.pdb
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.csproj.AssemblyReference.cache
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\addTestWindow.g.cs
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\AdminWindow.g.cs
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\deleteTestWindow.g.cs
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\LoginWindow.g.cs
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\MainWindow.g.cs
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\MarkWindow.g.cs
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\updataTestWindow.g.cs
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\UserTestWindow.g.cs
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\App.g.cs
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient_MarkupCompile.cache
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient_MarkupCompile.lref
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\addTestWindow.baml
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\AdminWindow.baml
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\deleteTestWindow.baml
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\LoginWindow.baml
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\MainWindow.baml
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\MarkWindow.baml
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\updataTestWindow.baml
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\UserTestWindow.baml
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.g.resources
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.Properties.Resources.resources
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.csproj.GenerateResource.cache
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.csproj.CoreCompileInputs.cache
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\NetTestC.9A0F7B9D.Up2Date
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.exe
+C:\Users\ZHONGYING\Desktop\NetTestServer -last\NetTestServer -last\NetTestClient\obj\Debug\NetTestClient.pdb

@@ -1,0 +1,20 @@
+﻿NetTestClient
+
+
+winexe
+C#
+.cs
+F:\project\NetTestServer -last\NetTestClient\obj\Debug\
+NetTestClient
+none
+false
+DEBUG;TRACE
+F:\project\NetTestServer -last\NetTestClient\App.xaml
+82054983618
+
+14-695298020
+16-1829156959
+addTestWindow.xaml;AdminWindow.xaml;deleteTestWindow.xaml;LoginWindow.xaml;MainWindow.xaml;MarkWindow.xaml;updataTestWindow.xaml;UserTestWindow.xaml;
+
+True
+
